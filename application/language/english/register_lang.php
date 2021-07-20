@@ -1,0 +1,19 @@
+<?php
+$lang['text_title']			 = "Register";
+$lang['text_login']			 = "Login";
+$lang['text_form']			 = "Register form";
+$lang['text_firstname']	     = "Firstame";
+$lang['text_lastname']		 = "Lastname";
+$lang['text_email']			 = "Email";
+$lang['text_password']		 = "Password";
+$lang['text_region']		 = "Region";
+$lang['text_select_region']	 = "Select region";
+$lang['text_nation']		 = "Nation";
+$lang['text_select_nation']	 = "Select nation";
+$lang['text_gender']		 = "Gender";
+$lang['text_date_birth']	 = "Date birth";
+$lang['text_male']		     = "Male";
+$lang['text_female']		 = "Female";
+$lang['text_register']		 = "Register";
+$lang['text_sign_in']		 = "Sign in";
+$lang['text_remember']		 = "Remember me";

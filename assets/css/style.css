@@ -1,0 +1,46 @@
+.main-poll{
+  background-color: #eae7e7;
+  padding: 10px 20px;
+}
+.message-short,.message-long{
+  background-color: #ddd;
+  padding: 10px 20px;
+  margin: 10px 0px;
+}
+#chart-z-m {
+  height:400px;
+  text-align:center;
+}
+#chart-z-m svg {
+	width:800px;
+	height: 100%;
+}
+.btn {
+   -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    border-width: 1px;
+    color: #000; /* Add a text color */
+    padding: 10px 20px; /* Add some padding */
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
+}
+
+.success {background-color: #4CAF50;} /* Green */
+.success:hover {background-color: #46a049;}
+
+.info {background-color: #2196F3;} /* Blue */
+.info:hover {background: #0b7dda;}
+
+.warning {background-color: #ff9800;color: #fff;} /* Orange */
+.warning:hover {background: #e68a00;}
+
+.danger {background-color: #f44336;color: #fff;} /* Red */ 
+.danger:hover {background: #da190b;}
+
+.default {background-color: #bdbaba;color: black;} /* Gray */ 
+.default:hover {background: #ddd;}
+svg text { 
+  font-family: sans-serif;
+    font-size: 100%;
+   fill: rgb(127, 127, 127);;
+}

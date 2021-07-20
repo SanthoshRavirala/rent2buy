@@ -1,0 +1,21 @@
+<?php
+$lang['text_title']			 = "Users";
+$lang['text_form']			 = "User form";
+$lang['text_firstname']	     = "Firstame";
+$lang['text_lastname']		 = "Lastname";
+$lang['text_email']			 = "Email";
+$lang['text_password']		 = "Password";
+$lang['text_region']		 = "Region";
+$lang['text_select_region']	 = "Select region";
+$lang['text_nation']		 = "Nation";
+$lang['text_select_nation']	 = "Select nation";
+$lang['text_gender']		 = "Gender";
+$lang['text_user_group']	 = "User Group";
+$lang['text_date_birth']	 = "Date birth";
+$lang['text_male']		     = "Male";
+$lang['text_female']		 = "Female";
+$lang['text_id']			 = "ID";
+$lang['text_edit_delete']	 = "Edit/Delete";
+$lang['text_add']	         = "Add";
+$lang['text_edit']	         = "Edit";
+$lang['text_showing']		 = "Showing %s to %s from %s items";
